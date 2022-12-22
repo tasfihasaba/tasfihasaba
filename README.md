@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasfihasaba" alt="tasfihasaba" /></a> </p>
 
-- 🔭 I’m currently learning **JavaScript**
-
 - 🌱 I’m currently learning **SDLC, JAVA, Web3**
 
 - 👯 I’m looking for a **SWE Summer Internship 2023**
