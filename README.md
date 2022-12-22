@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **tasfiha.saba1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DKlGx0zkNzxMl0w3IdR655UtimIRpliSUaTJZ5aVKwE/edit?usp=sharing](https://docs.google.com/document/d/1DKlGx0zkNzxMl0w3IdR655UtimIRpliSUaTJZ5aVKwE/edit?usp=sharing)
+- 📄 Know about my experiences [Tasfiha Saba Resume .pdf](https://github.com/tasfihasaba/tasfihasaba/files/10287140/Tasfiha.Saba.Resume.pdf)
+
 
 - ⚡ Fun fact **I can drink coffee right before going to bed and sleep right after**
 
