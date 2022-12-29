@@ -1,3 +1,6 @@
+
+<img align="center" alt="Tasfiha"  src="https://user-images.githubusercontent.com/77076887/209898432-eacd6719-6ad1-49fe-8cec-61972df35adf.gif">
+
 <h1 align="center">Hi 👋 I'm Tasfiha Saba</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
