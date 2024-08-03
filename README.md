@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **SDLC, JAVA, Web3**
 
-- 👯 I’m looking for a **SWE Summer Internship 2023**
+- 👯 I’m looking for a **SWE Full-time roles**
 
-- 🤝 I’m looking for help with **getting SWE Internships**
+- 🤝 I’m looking for help with **getting SWE roles**
 
 - 📫 How to reach me **tasfiha.saba1@gmail.com**
 
