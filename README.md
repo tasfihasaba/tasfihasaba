@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋 I'm Tasfiha Saba<img src= "https://user-images.githubusercontent.com/77076887/209899369-74db8f32-971f-4f19-9eb1-a21644e161a1.gif"width='50'/></h1>
-<h3 align="center">An Aspiring Software Engineer</h3>
+<h3 align="center">I'm a Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasfihasaba&label=Profile%20views&color=0e75b6&style=flat" alt="tasfihasaba" /> </p>
 
