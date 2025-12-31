@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **SDLC, JAVA, Web3**
 
-- 👯 I’m looking for a **SWE Full-time roles**
-
-- 🤝 I’m looking for help with **getting SWE roles**
-
 - 📫 How to reach me **tasfiha.saba1@gmail.com**
 
 - 📄 Know about my experiences [Tasfiha Saba Resume .pdf](https://github.com/tasfihasaba/tasfihasaba/files/10287140/Tasfiha.Saba.Resume.pdf)
